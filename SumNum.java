@@ -8,7 +8,7 @@ public class SumNum
 	public static void main(String[] args)
 	{
 		Scanner input = new Scanner( System.in );
-		System.out.print("Enter a String: ");
+		System.out.print("Enter an addition expression: ");
 		
 		String j = input.nextLine();
 		int sum = 0;
